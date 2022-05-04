@@ -1,0 +1,52 @@
+
+.garden_tea_table td{
+    padding: 20px 35px;
+    border: 1px solid;
+}
+.garden_tea_table{
+    border-spacing:0px!important;
+}
+.header{
+    height:50px;
+}
+.order_number_data{
+    font-weight:700;
+}
+.customer_name_data{
+    font-weight:700;
+}
+.garden_tea_table tr.data_row_partial{
+    color : #ff0000;
+}
+
+.garden_tea_table tr:nth-child(even) {background: #F1F1F1 }
+.garden_tea_table tr:nth-child(odd) {background: #FFF}
+
+
+.guest_data{
+    font-size: 22px;
+}
+.vegetarian_data{
+    font-size: 14px;
+}
+.gluten_data{
+    font-size: 14px;
+}
+.vegan_data{
+    font-size: 14px;
+}
+.nut_data{
+    font-size: 14px;
+}
+
+.garden_tea_form{
+    padding:10px;
+    font-size:16px;
+    line-height: 2.5;
+}
+#garden_search{
+    padding:5px;
+    width:300px;
+}
+
+
